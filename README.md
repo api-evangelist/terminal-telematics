@@ -1,4 +1,4 @@
-# Terminal (withterminal.com)
+# Terminal
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,153 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Terminal (withterminal.com) is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://withterminal.com/
+Terminal provides a telematics data infrastructure platform that connects commercial fleet products to over 290 telematics providers. It offers white‑label integration, data quality monitoring, and real‑time vehicle and transaction data for insurance, fleet management, fuel cards, and transportation management solutions. Backed by $20M Series A funding, Terminal serves insurers, fleet operators, and developers with a scalable API and extensive documentation.
+
+**Areas:** Company · Telematics · Data · Fleet · Insurance · API
+
+## Terminal on APIs.io
+
+Everything profiled for Terminal is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/terminal-telematics/](https://apis.io/providers/terminal-telematics/)** — or go straight to one of the APIs or properties below.
+
+### APIs (19)
+
+- [Terminal Applications API](https://apis.io/apis/terminal-telematics/terminal-telematics-applications-api/) — The Applications API from Terminal — 1 operation(s) for applications.
+- [Terminal Authentication API](https://apis.io/apis/terminal-telematics/terminal-telematics-authentication-api/) — The Authentication API from Terminal — 1 operation(s) for authentication.
+- [Terminal Connections API](https://apis.io/apis/terminal-telematics/terminal-telematics-connections-api/) — The Connections API from Terminal — 3 operation(s) for connections.
+- [Terminal Data Management API](https://apis.io/apis/terminal-telematics/terminal-telematics-data-management-api/) — The Data Management API from Terminal — 7 operation(s) for data management.
+- [Terminal Devices API](https://apis.io/apis/terminal-telematics/terminal-telematics-devices-api/) — The Devices API from Terminal — 1 operation(s) for devices.
+- [Terminal Drivers API](https://apis.io/apis/terminal-telematics/terminal-telematics-drivers-api/) — The Drivers API from Terminal — 2 operation(s) for drivers.
+- [Terminal Fault Codes API](https://apis.io/apis/terminal-telematics/terminal-telematics-fault-codes-api/) — The Fault Codes API from Terminal — 1 operation(s) for fault codes.
+- [Terminal Groups API](https://apis.io/apis/terminal-telematics/terminal-telematics-groups-api/) — The Groups API from Terminal — 1 operation(s) for groups.
+- [Terminal Hours of Service API](https://apis.io/apis/terminal-telematics/terminal-telematics-hours-of-service-api/) — The Hours of Service API from Terminal — 3 operation(s) for hours of service.
+- [Terminal IFTA API](https://apis.io/apis/terminal-telematics/terminal-telematics-ifta-api/) — The IFTA API from Terminal — 1 operation(s) for ifta.
+- [Terminal Issues API](https://apis.io/apis/terminal-telematics/terminal-telematics-issues-api/) — The Issues API from Terminal — 2 operation(s) for issues.
+- [Terminal Link API](https://apis.io/apis/terminal-telematics/terminal-telematics-link-api/) — The Link API from Terminal — 2 operation(s) for link.
+- [Terminal Providers API](https://apis.io/apis/terminal-telematics/terminal-telematics-providers-api/) — The Providers API from Terminal — 1 operation(s) for providers.
+- [Terminal Safety API](https://apis.io/apis/terminal-telematics/terminal-telematics-safety-api/) — The Safety API from Terminal — 3 operation(s) for safety.
+- [Terminal Trailers API](https://apis.io/apis/terminal-telematics/terminal-telematics-trailers-api/) — The Trailers API from Terminal — 2 operation(s) for trailers.
+- [Terminal Trips API](https://apis.io/apis/terminal-telematics/terminal-telematics-trips-api/) — The Trips API from Terminal — 1 operation(s) for trips.
+- [Terminal Usage API](https://apis.io/apis/terminal-telematics/terminal-telematics-usage-api/) — The Usage API from Terminal — 1 operation(s) for usage.
+- [Terminal Vehicle Utilization API](https://apis.io/apis/terminal-telematics/terminal-telematics-vehicle-utilization-api/) — The Vehicle Utilization API from Terminal — 1 operation(s) for vehicle utilization.
+- [Terminal Vehicles API](https://apis.io/apis/terminal-telematics/terminal-telematics-vehicles-api/) — The Vehicles API from Terminal — 5 operation(s) for vehicles.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Terminal Telematics Webhooks](https://apis.io/asyncapis/terminal-telematics/terminal-telematics-webhooks/)
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Terminal Agentic Access](https://apis.io/agentic-access/terminal-telematics/terminal-telematics-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [Fault Code Event](https://apis.io/schemas/terminal-telematics/terminal-telematics-fault-code-event/)
+- [Full Connection](https://apis.io/schemas/terminal-telematics/terminal-telematics-full-connection/)
+- [HOS Daily Log](https://apis.io/schemas/terminal-telematics/terminal-telematics-hosdaily-log/)
+- [ProviderCredentials](https://apis.io/schemas/terminal-telematics/terminal-telematics-provider-credentials/)
+- [Safety Event](https://apis.io/schemas/terminal-telematics/terminal-telematics-safety-event/)
+- [Vehicle Stat Log](https://apis.io/schemas/terminal-telematics/terminal-telematics-vehicle-stat-log/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Terminal Telematics Context](https://apis.io/jsonld/terminal-telematics/terminal-telematics-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Terminal API Rules](https://apis.io/rules/terminal-telematics/terminal-telematics-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Terminal Authentication](https://apis.io/security/terminal-telematics/terminal-telematics-authentication/)
+- [Terminal Domain Security](https://apis.io/security/terminal-telematics/terminal-telematics-domain-security/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Terminal Rate Limits](https://apis.io/rate-limits/terminal-telematics/terminal-telematics-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://withterminal.com/)
+- [Documentation](https://docs.withterminal.com/home)
+- [Getting started](https://docs.withterminal.com/guides/getting-started)
+- [API reference](https://docs.withterminal.com/api-reference/environments)
+- [Changelog](https://docs.withterminal.com/changelog)
+- [Trust centre](https://trust.withterminal.com/)
+- [Terms of service](https://www.withterminal.com/terms-of-service)
+- [Privacy policy](https://www.withterminal.com/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 60.0** — strong · rubric 0.27.0 · scored 2026-11-15
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 70.7 |
+| Contract governance | 79.1 |
+| Operational transparency | 52.1 |
+| Developer ergonomics | 61.2 |
+| Access clarity | 28.9 |
+
+**Agent readiness 49.5** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | unknown |
+| Agent Skills | unknown |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | paginated |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 26.3** — Insurance
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/terminal-telematics/](https://apis.io/providers/terminal-telematics/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Terminal: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/terminal-telematics/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
